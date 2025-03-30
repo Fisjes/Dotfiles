@@ -1,0 +1,18 @@
+[appearance]
+# Colors
+background = #282828
+foreground = #ebdbb2
+highlight_background = #458588
+highlight_foreground = #282828
+border_color = #a89984
+border_width = 1
+
+# Font and size
+font = "JetBrains Mono 12"
+
+# Padding and margins
+padding = 5
+margin = 10
+
+# Transparency (works with compositors that support transparency)
+opacity = 50

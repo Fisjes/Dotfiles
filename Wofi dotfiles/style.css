@@ -1,0 +1,12 @@
+window {
+background-color: rgba(93, 79, 151, 0.5);
+font-family: "Roboto Mono Medium";
+color: #FFFFFF;
+font-size: 20px;
+border-radius: 10px;
+}
+
+#input{
+background-color: rgba(93, 79, 151, 0.5);
+color: #FFFFFF;
+}
